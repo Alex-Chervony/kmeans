@@ -1,6 +1,6 @@
 ﻿#! /usr/bin/python3.4
 
-# Copied without shame from:
+# Based on:
 # https://datasciencelab.wordpress.com/2013/12/12/clustering-with-k-means-in-python/
  
 import numpy as np
